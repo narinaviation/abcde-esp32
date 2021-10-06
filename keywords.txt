@@ -1,0 +1,25 @@
+###########################################
+# Syntax Coloring Map For AnundaABCDE
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+ABCDE	KEYWORD1
+ABCDEItem	KEYWORD1
+ABCDESerial	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+init	KEYWORD2
+setConfigItems	KEYWORD2
+setDisplayItems	KEYWORD2
+setExecuteItems	KEYWORD2
+onDataRequest	KEYWORD2
+onConfigComplete	KEYWORD2
+loop    KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################
